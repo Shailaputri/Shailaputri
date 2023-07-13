@@ -1,6 +1,6 @@
-Hi. I am Pooja Sharma. I have been a programming enthusiast since my first code in BASIC. One of my earliest exposure to Software Engineering was during a summer programme called Catch Them Young, where a group of school students pan India were selected to attend lectures by the founder of Infosys Mr. N.R. Narayana Murthy.
+Hi. I am Pooja Sharma. I have been a programming enthusiast since my first code in BASIC language. My earliest exposure to Software Engineering was during a summer programme called Catch Them Young, where a group of school students pan India were selected to attend lectures by the founder of Infosys Mr. N.R. Narayana Murthy.  
 
-After college, I had joined PricewaterhouseCoopers as Technology Consultant. I took a detour from this path when I joined Punjab National Bank as Assistant Manager (Bank PO). I spent another 4 years of my journey preparing for UPSC Civil Services during which I wrote 3 mains and 1 interview of OPSC. [CSE Aspirant journey](#)  
+After college, I had joined PricewaterhouseCoopers as Technology Consultant. I took a detour from this path when I joined Punjab National Bank as Assistant Manager (Bank PO). I spent another 4 years preparing for UPSC Civil Services during which I wrote 3 mains and 1 interview of OPSC. [CSE Aspirant journey](#)  
 
 In my free time, I started developing websites and creating content on topics that I read. [My blog](https://myessaycollection.wordpress.com/)    
 
@@ -12,6 +12,8 @@ Short summary on my work:
 --> SQL Database, Postgres SQL   
 --> Wordpress - Developed personal website using oceanWP   
 --> Data Structures and Algorithms - I have solved 500+ problems. They cover different Data structures like hashmap, hashset, Linked Lists, Stacks, Queues, Trees. I have developed algorithms to solve these problems within provided time and space constraints. [Scaler profile](https://www.scaler.com/academy/profile)&nbsp;&nbsp;     
+--> Java - Learnt OOPs concepts through this.  
+--> C/C++ - My elective in higher secondary school and college.  
 
 
 Timelines:
