@@ -6,7 +6,7 @@ In my free time, I started developing websites and creating content on topics th
 
 
 Short summary on my work:  
---> Python programming language - I am in awe of the Zen of Python and its multiutility across web development, data analysis and scripting. I have used its modules collections to code with deque, libraries Dash for web development, Numpy and Pandas for data analysis, matplotlib and seaborn for data visualisation.    
+--> Python programming language 🐍- I am in awe of the Zen of Python and its multiutility across web development, data analysis and scripting. I have used its modules collections to code with deque, libraries Dash for web development, Numpy and Pandas for data analysis, matplotlib and seaborn for data visualisation.    
 --> Django framework - I developed webapps for online marketplace and AIChatbot (using OpenAI API). I am still working on few others like Learning Management System and Storyboard. I am also developing clone of websites like Stackoverflow that helps me to understand the design behind these websites.   
 --> Scrapy framework - I used this for scrapping a basic bookstore site to collect information on book prices and reviews. This was part of a freelance project for second hand books e-marketplace.    
 --> SQL Database, Postgres SQL   
