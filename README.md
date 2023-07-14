@@ -5,12 +5,12 @@ After college, I had joined PricewaterhouseCoopers as Technology Consultant 👩
 In my free time, I started developing websites and creating content on topics that I read. [My blog](https://myessaycollection.wordpress.com/)    
 
 
-Short summary on my work:  
+Short summary of my work:  
 --> Python programming language 🐍- I am in awe of the Zen of Python and its multiutility across web development, data analysis and scripting. I have used its modules collections to code with deque, libraries Dash for web development, Numpy and Pandas for data analysis, matplotlib and seaborn for data visualisation.    
 --> Django framework 🚀- I developed webapps for online marketplace and AIChatbot (using OpenAI API). I am still working on few others like Learning Management System and Storyboard. I am also developing clone of websites like Stackoverflow that helps me to understand the design behind these websites.   
 --> Scrapy framework 🕷- I used this for scrapping a basic bookstore site to collect information on book prices and reviews. This was part of a freelance project for second hand books e-marketplace.    
 --> SQL Database, Postgres SQL   
---> Wordpress 🌐- Developed personal website using oceanWP theme.
+--> Wordpress 🌐- Developed personal website using oceanWP theme.    
 --> Data Structures and Algorithms - I have solved 500+ problems. They cover different Data structures like hashmap, hashset, Linked Lists, Stacks, Queues, Trees. I have developed algorithms to solve these problems within provided time and space constraints. [Scaler profile](https://www.scaler.com/academy/profile)&nbsp;&nbsp;     
 --> Java - Learnt OOPs concepts through this.  
 --> C/C++ - My elective in higher secondary school and college.  
