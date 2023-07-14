@@ -1,12 +1,12 @@
 Hi. I am Pooja Sharma. I have been a programming enthusiast since my first code in BASIC language. My earliest exposure to Software Engineering was during a summer programme called Catch Them Young, where a group of school students pan India were selected to attend lectures by the founder of Infosys Mr. N.R. Narayana Murthy.  
 
-After college, I had joined PricewaterhouseCoopers as Technology Consultant. I took a detour from this path when I joined Punjab National Bank as Assistant Manager (Bank PO). I spent another 4 years preparing for UPSC Civil Services during which I wrote 3 mains and 1 interview of OPSC. [CSE Aspirant journey](#)  
+After college, I had joined PricewaterhouseCoopers as Technology Consultant. I took a detour from this path when I joined Punjab National Bank as Assistant Manager (Bank PO). I spent another 4 years preparing for UPSC Civil Services during which I wrote 3 mains and 1 interview of OPSC.
 
 In my free time, I started developing websites and creating content on topics that I read. [My blog](https://myessaycollection.wordpress.com/)    
 
 
 Short summary on my work:  
---> Python programming language - I am in awe of the Zen of Python and its multiutility across web development, data analysis and scripting. I have used its modules collections to code with deque, requests for web development, libraries Numpy and Pandas for data analysis, matplotlib and seaborn for data visualisation.    
+--> Python programming language - I am in awe of the Zen of Python and its multiutility across web development, data analysis and scripting. I have used its modules collections to code with deque, libraries Dash for web development, Numpy and Pandas for data analysis, matplotlib and seaborn for data visualisation.    
 --> Django framework - I developed webapps for online marketplace and AIChatbot (using OpenAI API). I am still working on few others like Learning Management System and Storyboard. I am also developing clone of websites like Stackoverflow that helps me to understand the design behind these websites.   
 --> Scrapy framework - I used this for scrapping a basic bookstore site to collect information on book prices and reviews. This was part of a freelance project for second hand books e-marketplace.    
 --> SQL Database, Postgres SQL   
@@ -18,7 +18,7 @@ Short summary on my work:
 
 Timelines:
 July 2023 : In top 10% of learners in Scaler        
-
+![Alt text](KaggleCertis/Scaler10.png?raw=true)&nbsp; 
 ![Alt text](KaggleCertis/scaler.png?raw=true)&nbsp; 
 
 
