@@ -2,7 +2,7 @@ Hi. I am Pooja Sharma. I have been a programming enthusiast since my first code 
 
 After college, I had joined PricewaterhouseCoopers as Technology Consultant 👩‍💻. I took a detour from this path when I joined Punjab National Bank as Assistant Manager (Bank PO) 🏦. I spent another 4 years preparing for UPSC Civil Services during which I wrote 3 mains and 1 interview of OPSC 📚.
 
-In my free time, I started developing websites and creating content on topics that I read. [My blog](https://myessaycollection.wordpress.com/)    
+In my free time, I started developing [websites](https://github.com/Shailaputri) and creating [content](https://myessaycollection.wordpress.com/) on topics that I read.        
 
 
 Short summary of my work:  
