@@ -11,7 +11,7 @@ Short summary of my work:
 --> Scrapy framework 🕷- I used this for scrapping a basic bookstore site to collect information on book prices and reviews. This was part of a freelance project for second hand books e-marketplace.    
 --> SQL Database, Postgres SQL   
 --> Wordpress 🌐- Developed personal website using oceanWP theme.    
---> Data Structures and Algorithms - I have solved 500+ problems. They cover different Data structures like hashmap, hashset, Linked Lists, Stacks, Queues, Trees. I have developed algorithms to solve these problems within provided time and space constraints. [Scaler profile](https://www.scaler.com/academy/profile)&nbsp;&nbsp;     
+--> Data Structures and Algorithms - I have solved 500+ problems. They cover different Data structures like hashmap, hashset, Linked Lists, Stacks, Queues, Trees. I have developed algorithms to solve these problems within provided time and space constraints. [Scaler profile](https://www.scaler.com/academy/profile/50073e503ef1/)&nbsp;&nbsp;     
 --> Java - Learnt OOPs concepts through this.  
 --> C/C++ - My elective in higher secondary school and college.  
 
@@ -21,7 +21,7 @@ July 2023 : In top 10% of learners in [Scaler](https://moonshot.scaler.com/s/tw/
 ![Alt text](KaggleCertis/scaler.png?raw=true)&nbsp; 
 
 
-August 2022 : Joined Scaler [Scaler profile](https://www.scaler.com/academy/profile)
+August 2022 : Joined Scaler [Scaler profile](https://www.scaler.com/academy/profile/50073e503ef1/)
 
 
 January 2022 : Signed Up with Kaggle.     
