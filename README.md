@@ -4,6 +4,7 @@ After college, I had joined PricewaterhouseCoopers as Technology Consultant 👩
 
 In my free time, I started developing [websites](https://github.com/Shailaputri?tab=repositories) and creating [content](https://myessaycollection.wordpress.com/) on topics that I read.        
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Shailaputri)](https://git.io/streak-stats)
 
 Short summary of my work:  
 --> Python programming language 🐍- I am in awe of the Zen of Python and its multiutility across web development, data analysis and scripting. I have used its modules collections to code with deque, libraries Dash for web development, Numpy and Pandas for data analysis, matplotlib and seaborn for data visualisation.    
