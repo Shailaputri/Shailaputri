@@ -10,7 +10,7 @@ In my free time, I started developing [websites](https://github.com/Shailaputri?
 Git Stats📊:            
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shailaputri)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shailaputri&langs_count=3)](https://github.com/Shailaputri/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shailaputri&langs_count=3&layout=donut)](https://github.com/Shailaputri/github-readme-stats)
 
 Short summary of my work:  
 --> Python programming language 🐍- I am in awe of the Zen of Python and its multiutility across web development, data analysis and scripting. I have used its modules collections to code with deque, libraries Dash for web development, Numpy and Pandas for data analysis, matplotlib and seaborn for data visualisation.    
