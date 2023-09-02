@@ -2,7 +2,12 @@ Hi. I am Pooja Sharma. I have been a programming enthusiast since my first code 
 
 After college, I had joined PricewaterhouseCoopers as Technology Consultant 👩‍💻. I took a detour from this path when I joined Punjab National Bank as Assistant Manager (Bank PO) 🏦. I spent another 4 years preparing for UPSC Civil Services during which I wrote 3 mains and 1 interview of OPSC 📚.
 
-In my free time, I started developing [websites](https://github.com/Shailaputri?tab=repositories) and creating [content](https://myessaycollection.wordpress.com/) on topics that I read.        
+In my free time, I started developing [websites](https://github.com/Shailaputri?tab=repositories) and creating [content](https://myessaycollection.wordpress.com/) on topics that I read. 
+
+⏩ to the present : I am pursuing a Certification program at [Scaler](https://www.scaler.com/academy/profile/50073e503ef1/) in Software Engineering. 
+
+
+Git Stats📊:            
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shailaputri)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shailaputri)](https://github.com/Shailaputri/github-readme-stats)
@@ -14,7 +19,8 @@ Short summary of my work:
 --> SQL Database, Postgres SQL   
 --> Wordpress 🌐- Developed personal website using oceanWP theme.    
 --> Data Structures and Algorithms - I have solved 500+ problems. They cover different Data structures like hashmap, hashset, Linked Lists, Stacks, Queues, Trees. I have developed algorithms to solve these problems within provided time and space constraints. [Scaler profile](https://www.scaler.com/academy/profile/50073e503ef1/)&nbsp;&nbsp;     
---> Java - Learnt OOPs concepts through this.  
+--> Java - Learnt OOPs concepts and design patterns through this. 
+--> Springboot - Scaler projects using this framework. 
 --> C/C++ - My elective in higher secondary school and college.  
 
 
