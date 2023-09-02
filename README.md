@@ -24,24 +24,5 @@ Short summary of my work:
 --> C/C++ - My elective in higher secondary school and college.  
 
 
-Timelines:      
-July 2023 : In top 10% of learners in [Scaler](https://moonshot.scaler.com/s/tw/4FGs0xkVJz)  
-![Alt text](KaggleCertis/scaler.png?raw=true)&nbsp; 
-
-
-August 2022 : Joined Scaler [Scaler profile](https://www.scaler.com/academy/profile/50073e503ef1/)
-
-
-January 2022 : Signed Up with Kaggle.     
-![Alt text](KaggleCertis/Python.png?raw=true)&nbsp; 
-![Alt text](KaggleCertis/SQL.png?raw=true)&nbsp;
-![Alt text](KaggleCertis/Pandas.png?raw=true)&nbsp;
-![Alt text](KaggleCertis/DV.png?raw=true)&nbsp;
-![Alt text](KaggleCertis/ML.png?raw=true)&nbsp;
-
-October 2021 : Signed Up with GitHub.
-
-
-
 
 
