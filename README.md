@@ -9,6 +9,8 @@ While developing applications was fun, I realised that it was only a start. The 
 
 ⏩ to the present : I am pursuing a Certification program at [Scaler](https://www.scaler.com/academy/profile/50073e503ef1/) in Software Engineering. 
 
+On the personal front, I am mother of one year old. I am a stay-at-home mother taking care of my child's needs and ensuring that my child feels loved, nourished and secure. I cook my own food as it has the highest compound effect on our health. I am a yoga enthusiast and an early riser. Work-life balance is important to me.
+
 
 Git Stats📊:            
 
