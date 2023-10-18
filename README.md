@@ -12,7 +12,9 @@ While developing applications was fun, I realised that it was only a start. The 
 On the personal front, I am mother of one year old. I am a stay-at-home mother taking care of my child's needs and ensuring that my child feels loved, nourished and secure. I cook my own food as it has the highest compound effect on our health. I am a yoga enthusiast and an early riser. Work-life balance is important to me.
 
 
-Git Stats📊:            
+Git Stats📊:   
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shailaputri)](https://github.com/ryo-ma/github-profile-trophy)           
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shailaputri)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shailaputri&langs_count=3&layout=donut)](https://github.com/Shailaputri/github-readme-stats)
