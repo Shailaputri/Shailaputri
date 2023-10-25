@@ -9,19 +9,19 @@ While developing applications was fun, I realised that it was only a start. The 
 
 ⏩ to the present : I am pursuing a Certification program at [Scaler](https://www.scaler.com/academy/profile/50073e503ef1/) in Software Engineering. 
 
-On the personal front, I am mother of one year old. I am a stay-at-home mother taking care of my child's needs and ensuring that my child feels loved, nourished and secure. I cook my own food as it has the highest compound effect on our health. I am a yoga enthusiast and an early riser. Work-life balance is important to me.
+On the personal front, I am a stay-at-home mother of a one year old; taking care of my child's needs and ensuring that my child feels loved, nourished and secure. I cook my own food as it has the highest compound effect on our health. I am a yoga enthusiast and an early riser. Work-life balance is important to me.
 
 
 Git Stats📊:   
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shailaputri)](https://github.com/ryo-ma/github-profile-trophy)           
+[![An image of @shailaputri's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shailaputri)](https://holopin.io/@shailaputri)           
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shailaputri)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shailaputri&langs_count=3&layout=donut)](https://github.com/Shailaputri/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shailaputri&langs_count=3&layout=donut)](https://github.com/Shailaputri/github-readme-stats). 
 
 Short summary of my work:  
 --> Python programming language 🐍- I am in awe of the Zen of Python and its multiutility across web development, data analysis and scripting. I have used its modules collections to code with deque, libraries Dash for web development, Numpy and Pandas for data analysis, matplotlib and seaborn for data visualisation.    
---> Django framework 🚀- I developed webapps for online marketplace and AIChatbot (using OpenAI API). I am still working on few others like Learning Management System and Storyboard. I am also developing clone of websites like Stackoverflow that helps me to understand the design behind these websites.   
+--> Django framework 🚀- I developed webapps for online marketplace and AIChatbot (using OpenAI API). I am still working on few others like Learning Management System and Storyboard. I am also developing clone of websites like Stackoverflow that helps me to understand the design behind these websites.  
 --> Scrapy framework 🕷- I used this for scrapping a basic bookstore site to collect information on book prices and reviews. This was part of a freelance project for second hand books e-marketplace.    
 --> SQL Database, Postgres SQL   
 --> Wordpress 🌐- Developed personal website using oceanWP theme.    
